@@ -16,3 +16,5 @@ rosinstall_generator desktop --rosdistro melodic --deps --wet-only --tar > melod
 
 # Download all of the core ROS 
 wstool init -j8 src melodic-desktop-wet.rosinstall
+
+# test
